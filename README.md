@@ -1,2 +1,0 @@
-# AddictionSolitaire
-Card game
