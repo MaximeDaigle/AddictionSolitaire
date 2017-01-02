@@ -1,5 +1,4 @@
 # AddictionSolitaire
-Card game
 
 ## Goal
 >Create a row for each suit, where each row starts with the deuce on the left and the king on the right. The aces are removed after dealing, so
